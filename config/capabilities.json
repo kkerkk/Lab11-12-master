@@ -1,0 +1,10 @@
+{
+    "bstackURL": "http://bsuser_5ypdjk:eQ4dpbJXpgs1zU3QuMG7@hub-cloud.browserstack.com/wd/hub",
+    "bstack:options" : {
+        "os": "Windows",
+        "osVersion": "11",
+        "buildName": "framework",
+        "sessionName" : "Parallel test 1"
+    },
+    "browserVersion": "latest"
+}
